@@ -59,3 +59,5 @@
 `git checkout <브랜치명>`: 브랜치 이동
 
 - 없는 브랜치 명을 작성했을 땐 에러 발생
+
+`git reset HEAD [file명]` : add와 commit 사이, add했을 때 빼고 싶은 파일이 있다면 쓰는 명령어
